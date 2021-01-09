@@ -20,7 +20,7 @@ make all testing easier. The player can also test the defense of his village aga
 generated attacking armies.
 ## How to run the system
 To start the server:
-Run the jar file: java -jar TheVillage.jar <port number>
+Run the jar file: java -jar TheVillage.jar &lt;port number&gt;
 To run a client:
 Compile file GameClient.java inside folder main.
-To start client run command: java GameClient.java <host name> <port number>
+To start client run command: java GameClient.java &lt;host name&gt; &lt;port number&gt;
